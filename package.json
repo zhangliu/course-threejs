@@ -1,0 +1,29 @@
+{
+  "name": "course-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangliu/course-threejs.git"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "zhangliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangliu/course-threejs/issues"
+  },
+  "homepage": "https://github.com/zhangliu/course-threejs#readme",
+  "devDependencies": {
+    "vite": "^2.7.13"
+  },
+  "dependencies": {
+    "three": "^0.137.5"
+  }
+}
